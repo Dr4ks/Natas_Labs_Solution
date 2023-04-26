@@ -18,8 +18,8 @@ Natas is a web-based wargame that challenges players to solve a series of challe
 
 The challenges in Natas are divided into levels, each of which has its own URL and set of credentials. Players must navigate through the levels and find a password or some other hidden information in order to proceed to the next level.
 
-**You can access to these labs from below link**
-**Link=>**https://overthewire.org/wargames/natas/
+**You can access to these labs from below link** <br />
+Link=>https://overthewire.org/wargames/natas/
 
 ![introduction](images/introduction.png)
 
